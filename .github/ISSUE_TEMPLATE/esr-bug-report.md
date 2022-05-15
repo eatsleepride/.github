@@ -7,12 +7,6 @@ assignees: ''
 
 ---
 
-**Summary** *(Short description of the bug)*
-
-**Scenario** *(When do we experience this bug)*
-
-**Expected Result** *(What should happen)*
-
 **Describe the bug** *(A clear and concise description of what the bug is)*
 
 **To Reproduce** *(Steps to reproduce the behavior)*
@@ -23,14 +17,13 @@ assignees: ''
 
 **Expected Behavior** *(A clear and concise description of what you expected to happen)*
 
-
-**Screenshots** *(If applicable, add screenshots to help explain your problem)*
-
-
-**Device:** *(Device name, OS, Browser Version)*
-
+**Device:** *(Model name, OS, Browser Version)*
+- Model: 
+- OS Version:
+- Browser: 
  
 **ESR Version / Build** 
 
+**Screenshots** *(If applicable, add screenshots to help explain your problem)*
 
 **Additional Info** *(Add any other context about the problem here)*
