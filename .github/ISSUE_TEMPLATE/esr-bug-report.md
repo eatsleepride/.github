@@ -7,23 +7,27 @@ assignees: ''
 
 ---
 
-**Describe the bug** *(A clear and concise description of what the bug is)*
+## Preconditions/Describe the bug
+1. This is what's happening
+2. Do this before you start
+3. Observed on these devices (Model name, OS, Browser Version)
 
-**To Reproduce** *(Steps to reproduce the behavior)*
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Steps to Reproduce 1
+1. Open the app to screen X > screen Y
+2. Tap button Z
+3. Slide button ZZ
 
-**Expected Behavior** *(A clear and concise description of what you expected to happen)*
+## Steps to Reproduce variation 2
+1. Open the app to screen X > Tap button Y
+2. Slide thing Z
+3. Tap item A
 
-**Device:** *(Model name, OS, Browser Version)*
-- Model: 
-- OS Version:
-- Browser: 
- 
-**ESR Version / Build** 
+## Expected
+1. The reload should show the home screen
+2. The app should not catch fire
+3. The user should get an error message
 
-**Screenshots** *(If applicable, add screenshots to help explain your problem)*
-
-**Additional Info** *(Add any other context about the problem here)*
+## Observed
+1. The app displayed a picture of Nicolas Cage
+2. The app caught fire
+3. The app crashed
