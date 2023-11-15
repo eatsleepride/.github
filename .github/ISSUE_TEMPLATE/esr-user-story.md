@@ -15,7 +15,7 @@ As a *(user, system or function)* I want: *(the feature or function to do this)*
 2.
 3.
 
-**Is your feature request related to a problem? *Provide a clear and concise description of what the problem is. Ex. I'm always frustrated when [...]*
+**Is your feature request related to a problem? *Provide a clear and concise description of what the problem is. Ex. I'm often frustrated when [...]*
 
 **Describe the expected outcome you'd like** *A clear and concise description of what you want to happen.*
 
