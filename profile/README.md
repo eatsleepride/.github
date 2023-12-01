@@ -1,6 +1,6 @@
 # EatSleepRIDE Mobile Inc.
 
-Find out who we are at [app.eatsleepride.com](https://app.eatsleepride.com)
+Find out who we are at [eatsleepride.com](https://eatsleepride.com)
 
 
 <!--
